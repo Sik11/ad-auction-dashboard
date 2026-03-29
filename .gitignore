@@ -1,0 +1,19 @@
+# Build
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Database
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime
+settings.txt
+
